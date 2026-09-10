@@ -1,0 +1,1 @@
+默认仅生成一个完整版 ZIP：D:\迅雷下载\vibe coding\vintage-bordeaux-theme-1.0.0.zip。manifest.json 在 ZIP 根目录；Logo 仅 logo/logo128.png。商店图需在后台相应素材栏另外选择上传。

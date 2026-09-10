@@ -1,0 +1,96 @@
+{
+  "manifest_version": 3,
+  "name": "Vintage Bordeaux Theme",
+  "version": "1.0.0",
+  "description": "A refined Chrome theme in deep burgundy, soft ivory, and muted sage.",
+  "icons": {
+    "128": "logo/logo128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        109,
+        8,
+        8
+      ],
+      "frame_inactive": [
+        117,
+        125,
+        111
+      ],
+      "toolbar": [
+        238,
+        234,
+        215
+      ],
+      "tab_text": [
+        45,
+        0,
+        0
+      ],
+      "tab_background_text": [
+        255,
+        253,
+        250
+      ],
+      "bookmark_text": [
+        45,
+        0,
+        0
+      ],
+      "toolbar_text": [
+        45,
+        0,
+        0
+      ],
+      "toolbar_button_icon": [
+        45,
+        0,
+        0
+      ],
+      "omnibox_background": [
+        255,
+        253,
+        250
+      ],
+      "omnibox_text": [
+        45,
+        0,
+        0
+      ],
+      "ntp_background": [
+        248,
+        246,
+        238
+      ],
+      "ntp_text": [
+        45,
+        0,
+        0
+      ],
+      "ntp_link": [
+        45,
+        0,
+        0
+      ],
+      "ntp_header": [
+        45,
+        0,
+        0
+      ],
+      "button_background": [
+        109,
+        8,
+        8
+      ],
+      "tab_background_text_inactive": [
+        255,
+        253,
+        250
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}
