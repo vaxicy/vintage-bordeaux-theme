@@ -1,5 +1,14 @@
-Vintage Bordeaux Theme
+Name: Vintage Bordeaux Theme
+Summary: A refined Chrome theme in deep burgundy, soft ivory, and muted sage.
 
-Bring timeless elegance to your browser with deep burgundy, soft ivory, and muted sage. A light background and dark cherry text create a calm, refined look.
+ENGLISH
+Vintage Bordeaux Theme brings a classic wine-label feel to your browser. A deep burgundy frame carries a soft ivory active tab and toolbar, while muted sage marks the inactive window. Dark cherry text and icons keep every surface easy to read.
 
-Solid colors. No wallpaper. No gradients. A vintage touch for everyday browsing.
+The palette pairs Bordeaux (#6D0808), Black Cherry (#2D0000), Muted Sage (#757D6F), Ivory (#EEEAD7), Light Ivory (#F8F6EE), and Warm White (#FFFDFA) for a calm, low-glare look with no wallpaper, no patterns, and no gradients.
+
+• Deep burgundy frame with an ivory active tab and toolbar.
+• Warm white address bar on a pale ivory new tab page.
+• Solid colors only, with high-contrast dark cherry text and icons.
+• No scripts, no tracking, no permission requests, and the new tab page is left untouched.
+
+This theme only changes supported Chrome interface colors. It does not recolor websites or replace the new tab page. Actual appearance may vary with your Chrome version and system settings.
